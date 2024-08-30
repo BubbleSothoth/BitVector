@@ -4,10 +4,10 @@
 
 # API
 ```C++
-	bool Get(size_t index);
+bool Get(size_t index);
 ```
 获取index的值
 ```C++
-	bool Set(size_t index, bool val);
+bool Set(size_t index, bool val);
 ```
 将index的值置为val
